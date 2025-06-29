@@ -1,0 +1,1024 @@
+[\u0000] 0
+[\u0001] 1
+[\u0002] 2
+[\u0003] 3
+[\u0004] 4
+[\u0005] 5
+[\u0006] 6
+[\u0007] 7
+[\u0008] 8
+[\u0009] 9
+[\u000a] 10
+[\u000b] 11
+[\u000c] 12
+[\u000d] 13
+[\u000e] 14
+[\u000f] 15
+[\u0010] 16
+[\u0011] 17
+[\u0012] 18
+[\u0013] 19
+[\u0014] 20
+[\u0015] 21
+[\u0016] 22
+[\u0017] 23
+[\u0018] 24
+[\u0019] 25
+[\u001a] 26
+[\u001b] 27
+[\u001c] 28
+[\u001d] 29
+[\u001e] 30
+[\u001f] 31
+[ ] 32
+[!] 33
+["] 34
+[#] 35
+[$] 36
+[%] 37
+[&] 38
+['] 39
+[(] 40
+[)] 41
+[*] 42
+[+] 43
+[,] 44
+[-] 45
+[.] 46
+[/] 47
+[0] 48
+[1] 49
+[2] 50
+[3] 51
+[4] 52
+[5] 53
+[6] 54
+[7] 55
+[8] 56
+[9] 57
+[:] 58
+[;] 59
+[<] 60
+[=] 61
+[>] 62
+[?] 63
+[@] 64
+[A] 65
+[B] 66
+[C] 67
+[D] 68
+[E] 69
+[F] 70
+[G] 71
+[H] 72
+[I] 73
+[J] 74
+[K] 75
+[L] 76
+[M] 77
+[N] 78
+[O] 79
+[P] 80
+[Q] 81
+[R] 82
+[S] 83
+[T] 84
+[U] 85
+[V] 86
+[W] 87
+[X] 88
+[Y] 89
+[Z] 90
+[[] 91
+[\] 92
+[]] 93
+[^] 94
+[_] 95
+[`] 96
+[a] 97
+[b] 98
+[c] 99
+[d] 100
+[e] 101
+[f] 102
+[g] 103
+[h] 104
+[i] 105
+[j] 106
+[k] 107
+[l] 108
+[m] 109
+[n] 110
+[o] 111
+[p] 112
+[q] 113
+[r] 114
+[s] 115
+[t] 116
+[u] 117
+[v] 118
+[w] 119
+[x] 120
+[y] 121
+[z] 122
+[{] 123
+[|] 124
+[}] 125
+[~] 126
+[\u007f] 127
+[�] 128
+[�] 129
+[�] 130
+[�] 131
+[�] 132
+[�] 133
+[�] 134
+[�] 135
+[�] 136
+[�] 137
+[�] 138
+[�] 139
+[�] 140
+[�] 141
+[�] 142
+[�] 143
+[�] 144
+[�] 145
+[�] 146
+[�] 147
+[�] 148
+[�] 149
+[�] 150
+[�] 151
+[�] 152
+[�] 153
+[�] 154
+[�] 155
+[�] 156
+[�] 157
+[�] 158
+[�] 159
+[�] 160
+[�] 161
+[�] 162
+[�] 163
+[�] 164
+[�] 165
+[�] 166
+[�] 167
+[�] 168
+[�] 169
+[�] 170
+[�] 171
+[�] 172
+[�] 173
+[�] 174
+[�] 175
+[�] 176
+[�] 177
+[�] 178
+[�] 179
+[�] 180
+[�] 181
+[�] 182
+[�] 183
+[�] 184
+[�] 185
+[�] 186
+[�] 187
+[�] 188
+[�] 189
+[�] 190
+[�] 191
+[�] 192
+[�] 193
+[�] 194
+[�] 195
+[�] 196
+[�] 197
+[�] 198
+[�] 199
+[�] 200
+[�] 201
+[�] 202
+[�] 203
+[�] 204
+[�] 205
+[�] 206
+[�] 207
+[�] 208
+[�] 209
+[�] 210
+[�] 211
+[�] 212
+[�] 213
+[�] 214
+[�] 215
+[�] 216
+[�] 217
+[�] 218
+[�] 219
+[�] 220
+[�] 221
+[�] 222
+[�] 223
+[�] 224
+[�] 225
+[�] 226
+[�] 227
+[�] 228
+[�] 229
+[�] 230
+[�] 231
+[�] 232
+[�] 233
+[�] 234
+[�] 235
+[�] 236
+[�] 237
+[�] 238
+[�] 239
+[�] 240
+[�] 241
+[�] 242
+[�] 243
+[�] 244
+[�] 245
+[�] 246
+[�] 247
+[�] 248
+[�] 249
+[�] 250
+[�] 251
+[�] 252
+[�] 253
+[�] 254
+[�] 255
+[e][ ] -> [e ] 256
+[s][ ] -> [s ] 257
+[�][�] -> [�] 258
+[t][ ] -> [t ] 259
+[ ][�] -> [ �] 260
+[i][n] -> [in] 261
+[a][n] -> [an] 262
+[�][�] -> [�] 263
+[�][�] -> [’] 264
+[e][n] -> [en] 265
+[e][r] -> [er] 266
+[A][I] -> [AI] 267
+[e][s ] -> [es ] 268
+[ ][t] -> [ t] 269
+[a][r] -> [ar] 270
+[a][t] -> [at] 271
+[o][u] -> [ou] 272
+[in][g] -> [ing] 273
+[o][n] -> [on] 274
+[ ][s] -> [ s] 275
+[ �][�] -> [ �] 276
+[�][�] -> [é] 277
+[ ][c] -> [ c] 278
+[o][r] -> [or] 279
+[y][ou] -> [you] 280
+[e][d] -> [ed] 281
+[a][in] -> [ain] 282
+[?][\u000a] -> [?\u000a] 283
+[t][h] -> [th] 284
+[i][l] -> [il] 285
+[�][�] -> [�] 286
+[ ][d] -> [ d] 287
+[e][l] -> [el] 288
+[ ][u] -> [ u] 289
+[a][l] -> [al] 290
+[ ][p] -> [ p] 291
+[m][e ] -> [me ] 292
+[w][h] -> [wh] 293
+[�][�] -> [�] 294
+[ t][o] -> [ to] 295
+[e][s] -> [es] 296
+[�][�] -> [我] 297
+[\u000a][AI] -> [\u000aAI] 298
+[�][�] -> [�] 299
+[\u000a][i] -> [\u000ai] 300
+[e][t] -> [et] 301
+[I][A] -> [IA] 302
+[\u000a][l] -> [\u000al] 303
+[e][u] -> [eu] 304
+[c][h] -> [ch] 305
+[ar][e ] -> [are ] 306
+[�][�] -> [了] 307
+[ ][m] -> [ m] 308
+[ ][b] -> [ b] 309
+[i][c] -> [ic] 310
+[a][t ] -> [at ] 311
+[t][r] -> [tr] 312
+[you][ ] -> [you ] 313
+[u][s] -> [us] 314
+[a][s] -> [as] 315
+[h][o] -> [ho] 316
+[e ][p] -> [e p] 317
+[�][�] -> [�] 318
+[�][�] -> [�] 319
+[\u000a][s] -> [\u000as] 320
+[a][ ] -> [a ] 321
+[y][ ] -> [y ] 322
+[n][o] -> [no] 323
+[’][IA] -> [’IA] 324
+[i][r] -> [ir] 325
+[a][i] -> [ai] 326
+[ ][f] -> [ f] 327
+[\u000a][j] -> [\u000aj] 328
+[a][u] -> [au] 329
+[�][�] -> [�] 330
+[�][�] -> [的] 331
+[ t][h] -> [ th] 332
+[i][t] -> [it] 333
+[e ][l] -> [e l] 334
+[ed][ ] -> [ed ] 335
+[r][e] -> [re] 336
+[o][d] -> [od] 337
+[�][�] -> [�] 338
+[e ][c] -> [e c] 339
+[\u000a][我] -> [\u000a我] 340
+[�][�] -> [�] 341
+[a][y] -> [ay] 342
+[q][u] -> [qu] 343
+[t][er] -> [ter] 344
+[i][s] -> [is] 345
+[e ][m] -> [e m] 346
+[o][m] -> [om] 347
+[o][l] -> [ol] 348
+[t][o] -> [to] 349
+[a][p] -> [ap] 350
+[\u000a][t] -> [\u000at] 351
+[i][s ] -> [is ] 352
+[�][�] -> [�] 353
+[ c][an] -> [ can] 354
+[wh][at ] -> [what ] 355
+[en][t ] -> [ent ] 356
+[�][�] -> [你] 357
+[n][e] -> [ne] 358
+[ ][you ] -> [ you ] 359
+[�][�] -> [？] 360
+[’][t ] -> [’t ] 361
+[c][an] -> [can] 362
+[i][d] -> [id] 363
+[l][e] -> [le] 364
+[�][�] -> [�] 365
+[f][or] -> [for] 366
+[�][�] -> [�] 367
+[�][�] -> [�] 368
+[\u000a][d] -> [\u000ad] 369
+[ing][ ] -> [ing ] 370
+[�][�] -> [�] 371
+[�][�] -> [️] 372
+[ap][p] -> [app] 373
+[m][er] -> [mer] 374
+[l][i] -> [li] 375
+[s ][are ] -> [s are ] 376
+[e ][s] -> [e s] 377
+[ �][�] -> [ 😂] 378
+[h][u] -> [hu] 379
+[�][�] -> [一] 380
+[�][�] -> [个] 381
+[t][il] -> [til] 382
+[ d][o] -> [ do] 383
+[e][v] -> [ev] 384
+[�][�] -> [��] 385
+[\u000al][es ] -> [\u000ales ] 386
+[l][at] -> [lat] 387
+[’][m] -> [’m] 388
+[ed][ to] -> [ed to] 389
+[m][ain] -> [main] 390
+[no][w] -> [now] 391
+[t][en] -> [ten] 392
+[ten][an] -> [tenan] 393
+[\u000aAI][ can] -> [\u000aAI can] 394
+[,][ ] -> [, ] 395
+[ �][�] -> [ �] 396
+[ u][n] -> [ un] 397
+[�][�] -> [�] 398
+[ ][w] -> [ w] 399
+[ p][eu] -> [ peu] 400
+[\u000a][你] -> [\u000a你] 401
+[e][c] -> [ec] 402
+[o][t] -> [ot] 403
+[a][v] -> [av] 404
+[�][�] -> [�] 405
+[�][��] -> [在] 406
+[i][v] -> [iv] 407
+[AI][ ] -> [AI ] 408
+[r][o] -> [ro] 409
+[�][�] -> [�] 410
+[t ][p] -> [t p] 411
+[ �][�] -> [ �] 412
+[ ][g] -> [ g] 413
+[’][s ] -> [’s ] 414
+[u][p] -> [up] 415
+[\u000aj][’] -> [\u000aj’] 416
+[o][f] -> [of] 417
+[�][�] -> [�] 418
+[g][o] -> [go] 419
+[on][ ] -> [on ] 420
+[al][l] -> [all] 421
+[ s][o] -> [ so] 422
+[�][�] -> [是] 423
+[!][\u000a] -> [!\u000a] 424
+[lat][er] -> [later] 425
+[r][ain] -> [rain] 426
+[e][el] -> [eel] 427
+[r][é] -> [ré] 428
+[a][c] -> [ac] 429
+[id][ you ] -> [id you ] 430
+[ u][s] -> [ us] 431
+[til][is] -> [tilis] 432
+[a][me ] -> [ame ] 433
+[�][�] -> [�] 434
+[G][P] -> [GP] 435
+[GP][T] -> [GPT] 436
+[ ][v] -> [ v] 437
+[e][\u000a] -> [e\u000a] 438
+[�][�] -> [�] 439
+[�][�] -> [要] 440
+[ol][d] -> [old] 441
+[i][t ] -> [it ] 442
+[e l][’IA] -> [e l’IA] 443
+[a][k] -> [ak] 444
+[?][ �] -> [? �] 445
+[ u][p] -> [ up] 446
+[�][�] -> [��] 447
+[ay][ �] -> [ay �] 448
+[ ][n] -> [ n] 449
+[ s][t] -> [ st] 450
+[s ][in] -> [s in] 451
+[e][m] -> [em] 452
+[é][t] -> [ét] 453
+[h][on] -> [hon] 454
+[en][er] -> [ener] 455
+[ener][at] -> [enerat] 456
+[tr][ain] -> [train] 457
+[e ][th] -> [e th] 458
+[e][e] -> [ee] 459
+[i][m] -> [im] 460
+[a][g] -> [ag] 461
+[on][s ] -> [ons ] 462
+[\u000al][’IA] -> [\u000al’IA] 463
+[�][�] -> [�] 464
+[\u000ai][’m] -> [\u000ai’m] 465
+[ ][�] -> [ �] 466
+[\u000aj’][ai] -> [\u000aj’ai] 467
+[ �][�] -> [ �] 468
+[�][�] -> [��] 469
+[a][m] -> [am] 470
+[\u000a][what ] -> [\u000awhat ] 471
+[\u000a][w] -> [\u000aw] 472
+[an][s] -> [ans] 473
+[t ][d] -> [t d] 474
+[main][tenan] -> [maintenan] 475
+[a][s ] -> [as ] 476
+[ ][l] -> [ l] 477
+[�][�] -> [刚] 478
+[an][g] -> [ang] 479
+[�][�] -> [�] 480
+[�][�] -> [没] 481
+[t ][�] -> [t �] 482
+[s][u] -> [su] 483
+[eu][r] -> [eur] 484
+[�][�] -> [天] 485
+[es ][m] -> [es m] 486
+[ �][�] -> [ �] 487
+[ �][�] -> [ �] 488
+[to][p] -> [top] 489
+[�][�] -> [�] 490
+[�][�] -> [有] 491
+[v][a ] -> [va ] 492
+[j][us] -> [jus] 493
+[ho][to] -> [hoto] 494
+[ho][s] -> [hos] 495
+[tilis][ent ] -> [tilisent ] 496
+[\u000a][th] -> [\u000ath] 497
+[eu][x] -> [eux] 498
+[o][ir] -> [oir] 499
+[ �][�] -> [ 😴] 500
+[l][o] -> [lo] 501
+[�][�] -> [�] 502
+[g][et] -> [get] 503
+[get][t] -> [gett] 504
+[gett][ing] -> [getting] 505
+[au][x] -> [aux] 506
+[s ][us] -> [s us] 507
+[m][or] -> [mor] 508
+[e p][ic] -> [e pic] 509
+[�][�] -> [太] 510
+[ to][o] -> [ too] 511
+[are ][you ] -> [are you ] 512
+[wh][at] -> [what] 513
+[ un][e ] -> [ une ] 514
+[ �][�] -> [ �] 515
+[\u000at][u] -> [\u000atu] 516
+[ s][p] -> [ sp] 517
+[w][ ] -> [w ] 518
+[ak][es ] -> [akes ] 519
+[al][k] -> [alk] 520
+[go][od] -> [good] 521
+[f][r] -> [fr] 522
+[ing][?\u000a] -> [ing?\u000a] 523
+[ �][�] -> [ 😳] 524
+[ag][ain] -> [again] 525
+[e ][AI ] -> [e AI ] 526
+[you][r] -> [your] 527
+[e ][ne] -> [e ne] 528
+[ d][e l’IA] -> [ de l’IA] 529
+[ ][you] -> [ you] 530
+[ you]['] -> [ you'] 531
+[ you'][r] -> [ you'r] 532
+[ you'r][e c] -> [ you're c] 533
+[o][k] -> [ok] 534
+[e][e ] -> [ee ] 535
+[tr][o] -> [tro] 536
+[tro][p] -> [trop] 537
+[later][?\u000a] -> [later?\u000a] 538
+[ev][en] -> [even] 539
+[id you ][e] -> [id you e] 540
+[id you e][at] -> [id you eat] 541
+[ed to][d] -> [ed tod] 542
+['][s ] -> ['s ] 543
+[n][ing] -> [ning] 544
+[y][ th] -> [y th] 545
+[g][h] -> [gh] 546
+[t][s] -> [ts] 547
+[e ][�] -> [e �] 548
+[ ][ou] -> [ ou] 549
+[h][app] -> [happ] 550
+[happ][en] -> [happen] 551
+[,][ c] -> [, c] 552
+[, c][’] -> [, c’] 553
+[AI][ to] -> [AI to] 554
+[ p][hon] -> [ phon] 555
+[th][ing] -> [thing] 556
+[l][l] -> [ll] 557
+[ro][w] -> [row] 558
+[ �][�] -> [ �] 559
+[ame ][old] -> [ame old] 560
+[e ][b] -> [e b] 561
+[s ][what ] -> [s what ] 562
+[ �][�] -> [ �] 563
+[ch][at] -> [chat] 564
+[chat][b] -> [chatb] 565
+[chatb][ot] -> [chatbot] 566
+[�][�] -> [画] 567
+[c][t] -> [ct] 568
+[e ][w] -> [e w] 569
+[can][’t ] -> [can’t ] 570
+[�][�] -> [看] 571
+[\u000a][c] -> [\u000ac] 572
+[�][�] -> [�] 573
+[ed ][an] -> [ed an] 574
+[�][�] -> [�] 575
+[k][now] -> [know] 576
+[v][i] -> [vi] 577
+[e ][d] -> [e d] 578
+[s ][�] -> [s �] 579
+[an][c] -> [anc] 580
+[ w][r] -> [ wr] 581
+[ wr][it] -> [ writ] 582
+[\u000ai]['] -> [\u000ai'] 583
+[al][g] -> [alg] 584
+[alg][or] -> [algor] 585
+[algor][i] -> [algori] 586
+[algori][th] -> [algorith] 587
+[algorith][m] -> [algorithm] 588
+[�][�] -> [吗] 589
+[吗][？] -> [吗？] 590
+[�][�] -> [这] 591
+[这][个] -> [这个] 592
+[的][一] -> [的一] 593
+[r][iv] -> [riv] 594
+[�][�] -> [�] 595
+[s][p] -> [sp] 596
+[�][�] -> [下] 597
+[ee][p] -> [eep] 598
+[eep][f] -> [eepf] 599
+[t][i] -> [ti] 600
+[ f][il] -> [ fil] 601
+[�][�] -> [�] 602
+[�][�] -> [现] 603
+[现][在] -> [现在] 604
+[ ][hu] -> [ hu] 605
+[en][t] -> [ent] 606
+[ �][��] -> [ 🚗] 607
+[n][eur] -> [neur] 608
+[app][ar] -> [appar] 609
+[�][�] -> [说] 610
+[d][s ] -> [ds ] 611
+[g][u] -> [gu] 612
+[ c][od] -> [ cod] 613
+[�][�] -> [�] 614
+[e ][re] -> [e re] 615
+[t p][ar] -> [t par] 616
+[�][��] -> [能] 617
+[G][enerat] -> [Generat] 618
+[Generat][iv] -> [Generativ] 619
+[Generativ][e ] -> [Generative ] 620
+[Generative ][P] -> [Generative P] 621
+[Generative P][re] -> [Generative Pre] 622
+[Generative Pre][-] -> [Generative Pre-] 623
+[Generative Pre-][train] -> [Generative Pre-train] 624
+[Generative Pre-train][ed ] -> [Generative Pre-trained ] 625
+[Generative Pre-trained ][T] -> [Generative Pre-trained T] 626
+[Generative Pre-trained T][r] -> [Generative Pre-trained Tr] 627
+[Generative Pre-trained Tr][ans] -> [Generative Pre-trained Trans] 628
+[Generative Pre-trained Trans][for] -> [Generative Pre-trained Transfor] 629
+[Generative Pre-trained Transfor][mer] -> [Generative Pre-trained Transformer] 630
+[ 😂][\u000a] -> [ 😂\u000a] 631
+[il][li] -> [illi] 632
+[maintenan][t] -> [maintenant] 633
+[�][�] -> [ç] 634
+[ç][a ] -> [ça ] 635
+[ �][�] -> [ �] 636
+[es][s] -> [ess] 637
+[ p][hoto] -> [ photo] 638
+[�][�] -> [��] 639
+[ peu][t ] -> [ peut ] 640
+[ �][�] -> [ 🌧] 641
+[ 🌧][️] -> [ 🌧️] 642
+[ v][eux] -> [ veux] 643
+[e s][oir] -> [e soir] 644
+[ ][?\u000a] -> [ ?\u000a] 645
+[�][�] -> [听] 646
+[\u000a][h] -> [\u000ah] 647
+[es ][u] -> [es u] 648
+[es u][tilisent ] -> [es utilisent ] 649
+[t][é] -> [té] 650
+[l][é] -> [lé] 651
+[er][e] -> [ere] 652
+[el][l] -> [ell] 653
+[\u000a][GPT] -> [\u000aGPT] 654
+[\u000atu][ veux] -> [\u000atu veux] 655
+[o][i] -> [oi] 656
+[ m][ain] -> [ main] 657
+[ main][tenan] -> [ maintenan] 658
+[ �][�] -> [ �] 659
+[�][�] -> [真] 660
+[�][�] -> [�] 661
+[ une ][IA] -> [ une IA] 662
+[a][us] -> [aus] 663
+[aus][s] -> [auss] 664
+[auss][i] -> [aussi] 665
+[aussi][ de l’IA] -> [aussi de l’IA] 666
+[�][�] -> [�] 667
+[�][�] -> [过] 668
+[v][o] -> [vo] 669
+[�][�] -> [推] 670
+[�][�] -> [今] 671
+[今][天] -> [今天] 672
+[é][o] -> [éo] 673
+[ �][�] -> [ 😅] 674
+[�][�] -> [à] 675
+[AI][�] -> [AI�] 676
+[e ][qu] -> [e qu] 677
+[�][�] -> [到] 678
+[ang][é] -> [angé] 679
+[ou][r] -> [our] 680
+[ent ][l] -> [ent l] 681
+[�][�] -> [别] 682
+[ ][qu] -> [ qu] 683
+[AI][ can] -> [AI can] 684
+[�][了] -> [�了] 685
+[e ][?\u000a] -> [e ?\u000a] 686
+[�][�] -> [�] 687
+[�][�] -> [睡] 688
+[�][�] -> [�] 689
+[ét][ai] -> [étai] 690
+[étai][t ] -> [était ] 691
+[�][�] -> [想] 692
+[�][�] -> [�] 693
+[�][�] -> [�] 694
+[�][�] -> [来] 695
+[i][’m] -> [i’m] 696
+[�][�] -> [，] 697
+[ �][�] -> [ 🤖] 698
+[�][�] -> [�] 699
+[�][�] -> [不] 700
+[�][�] -> [�] 701
+[�][�] -> [模] 702
+[�][�] -> [�] 703
+[, c’][es] -> [, c’es] 704
+[, c’es][t ] -> [, c’est ] 705
+[\u000aj’ai][ t] -> [\u000aj’ai t] 706
+[�][�] -> [�] 707
+[�][�] -> [也] 708
+[�][�] -> [�] 709
+[�][�] -> [会] 710
+[u][n] -> [un] 711
+[jus][t ] -> [just ] 712
+[s][e] -> [se] 713
+[�][�] -> [�] 714
+[�][�] -> [�] 715
+[�][�] -> [型] 716
+[\u000a][m] -> [\u000am] 717
+[top][ g] -> [top g] 718
+[top g][hos] -> [top ghos] 719
+[top ghos][t] -> [top ghost] 720
+[top ghost][ing ] -> [top ghosting ] 721
+[top ghosting ][me ] -> [top ghosting me ] 722
+[top ghosting me ][�] -> [top ghosting me �] 723
+[top ghosting me �][�] -> [top ghosting me �] 724
+[top ghosting me �][�] -> [top ghosting me 👻] 725
+[t][u] -> [tu] 726
+[ �][�] -> [ 🧬] 727
+[\u000a我][在] -> [\u000a我在] 728
+[chatbot][s are ] -> [chatbots are ] 729
+[chatbots are ][getting] -> [chatbots are getting] 730
+[chatbots are getting][ s] -> [chatbots are getting s] 731
+[chatbots are getting s][c] -> [chatbots are getting sc] 732
+[chatbots are getting sc][ar] -> [chatbots are getting scar] 733
+[chatbots are getting scar][y ] -> [chatbots are getting scary ] 734
+[chatbots are getting scary ][good] -> [chatbots are getting scary good] 735
+[l][es ] -> [les ] 736
+[�][�] -> [�] 737
+[what][’s ] -> [what’s ] 738
+[what’s ][th] -> [what’s th] 739
+[what’s th][e p] -> [what’s the p] 740
+[what’s the p][l] -> [what’s the pl] 741
+[what’s the pl][an] -> [what’s the plan] 742
+[what’s the plan][ f] -> [what’s the plan f] 743
+[what’s the plan f][or] -> [what’s the plan for] 744
+[what’s the plan for][ to] -> [what’s the plan for to] 745
+[what’s the plan for to][mor] -> [what’s the plan for tomor] 746
+[what’s the plan for tomor][row] -> [what’s the plan for tomorrow] 747
+[what’s the plan for tomorrow][?\u000a] -> [what’s the plan for tomorrow?\u000a] 748
+[ �][�] -> [ 🧠] 749
+[ g][enerat] -> [ generat] 750
+[ generat][e m] -> [ generate m] 751
+[ generate m][us] -> [ generate mus] 752
+[ generate mus][ic] -> [ generate music] 753
+[ generate music][ too] -> [ generate music too] 754
+[ generate music too][ �] -> [ generate music too �] 755
+[ generate music too �][�] -> [ generate music too 🎵] 756
+[train][ing ] -> [training ] 757
+[training ][AI] -> [training AI] 758
+[training AI][ m] -> [training AI m] 759
+[training AI m][od] -> [training AI mod] 760
+[training AI mod][el] -> [training AI model] 761
+[training AI model][s us] -> [training AI models us] 762
+[training AI models us][es ] -> [training AI models uses ] 763
+[training AI models uses ][a ] -> [training AI models uses a ] 764
+[training AI models uses a ][lo] -> [training AI models uses a lo] 765
+[training AI models uses a lo][t ] -> [training AI models uses a lot ] 766
+[training AI models uses a lot ][of] -> [training AI models uses a lot of] 767
+[training AI models uses a lot of][ ] -> [training AI models uses a lot of ] 768
+[training AI models uses a lot of ][el] -> [training AI models uses a lot of el] 769
+[training AI models uses a lot of el][ec] -> [training AI models uses a lot of elec] 770
+[training AI models uses a lot of elec][tr] -> [training AI models uses a lot of electr] 771
+[training AI models uses a lot of electr][ic] -> [training AI models uses a lot of electric] 772
+[training AI models uses a lot of electric][it] -> [training AI models uses a lot of electricit] 773
+[training AI models uses a lot of electricit][y ] -> [training AI models uses a lot of electricity ] 774
+[training AI models uses a lot of electricity ][�] -> [training AI models uses a lot of electricity �] 775
+[training AI models uses a lot of electricity �][��] -> [training AI models uses a lot of electricity ⚡] 776
+[en][d] -> [end] 777
+[end][ th] -> [end th] 778
+[end th][e pic] -> [end the pic] 779
+[d][id you eat] -> [did you eat] 780
+[el][f] -> [elf] 781
+[elf][-] -> [elf-] 782
+[elf-][d] -> [elf-d] 783
+[elf-d][riv] -> [elf-driv] 784
+[elf-driv][ing] -> [elf-driving] 785
+[elf-driving][ c] -> [elf-driving c] 786
+[elf-driving c][ar] -> [elf-driving car] 787
+[elf-driving car][s are ] -> [elf-driving cars are ] 788
+[elf-driving cars are ][b] -> [elf-driving cars are b] 789
+[elf-driving cars are b][as] -> [elf-driving cars are bas] 790
+[elf-driving cars are bas][ic] -> [elf-driving cars are basic] 791
+[elf-driving cars are basic][all] -> [elf-driving cars are basicall] 792
+[elf-driving cars are basicall][y ] -> [elf-driving cars are basically ] 793
+[elf-driving cars are basically ][AI ] -> [elf-driving cars are basically AI ] 794
+[elf-driving cars are basically AI ][on ] -> [elf-driving cars are basically AI on ] 795
+[elf-driving cars are basically AI on ][wh] -> [elf-driving cars are basically AI on wh] 796
+[elf-driving cars are basically AI on wh][eel] -> [elf-driving cars are basically AI on wheel] 797
+[elf-driving cars are basically AI on wheel][s �] -> [elf-driving cars are basically AI on wheels �] 798
+[elf-driving cars are basically AI on wheels �][��] -> [elf-driving cars are basically AI on wheels 🚗] 799
+[no][t ] -> [not ] 800
+[not ][m] -> [not m] 801
+[not m][u] -> [not mu] 802
+[not mu][ch] -> [not much] 803
+[not much][, ] -> [not much, ] 804
+[not much, ][just ] -> [not much, just ] 805
+[not much, just ][ch] -> [not much, just ch] 806
+[not much, just ch][il] -> [not much, just chil] 807
+[not much, just chil][l] -> [not much, just chill] 808
+[not much, just chill][ing] -> [not much, just chilling] 809
+[\u000as][top ghosting me 👻] -> [\u000astop ghosting me 👻] 810
+[s][ho] -> [sho] 811
+[sho][w ] -> [show ] 812
+[show ][are you ] -> [show are you ] 813
+[show are you ][w] -> [show are you w] 814
+[show are you w][at] -> [show are you wat] 815
+[show are you wat][ch] -> [show are you watch] 816
+[show are you watch][ing?\u000a] -> [show are you watching?\u000a] 817
+[l][ol] -> [lol] 818
+[w][ok] -> [wok] 819
+[wok][e ] -> [woke ] 820
+[woke ][up] -> [woke up] 821
+[woke up][ 😴] -> [woke up 😴] 822
+[ne][ed] -> [need] 823
+[need][ c] -> [need c] 824
+[need c][of] -> [need cof] 825
+[need cof][f] -> [need coff] 826
+[need coff][ee ] -> [need coffee ] 827
+[need coffee ][as] -> [need coffee as] 828
+[need coffee as][ap] -> [need coffee asap] 829
+[need coffee asap][ �] -> [need coffee asap �] 830
+[need coffee asap �][�] -> [need coffee asap ☕] 831
+[e][x] -> [ex] 832
+[ex][t ] -> [ext ] 833
+[ext ][me ] -> [ext me ] 834
+[ext me ][wh] -> [ext me wh] 835
+[ext me wh][en] -> [ext me when] 836
+[ext me when][ you're c] -> [ext me when you're c] 837
+[ext me when you're c][lo] -> [ext me when you're clo] 838
+[ s][til] -> [ stil] 839
+[ stil][l] -> [ still] 840
+[ still][ m] -> [ still m] 841
+[ still m][akes ] -> [ still makes ] 842
+[ still makes ][up] -> [ still makes up] 843
+[ still makes up][ st] -> [ still makes up st] 844
+[ still makes up st][u] -> [ still makes up stu] 845
+[ still makes up stu][f] -> [ still makes up stuf] 846
+[ still makes up stuf][f] -> [ still makes up stuff] 847
+[ still makes up stuff][ s] -> [ still makes up stuff s] 848
+[ still makes up stuff s][om] -> [ still makes up stuff som] 849
+[ still makes up stuff som][et] -> [ still makes up stuff somet] 850
+[ still makes up stuff somet][im] -> [ still makes up stuff sometim] 851
+[ still makes up stuff sometim][es ] -> [ still makes up stuff sometimes ] 852
+[ still makes up stuff sometimes ][th] -> [ still makes up stuff sometimes th] 853
+[ still makes up stuff sometimes th][o] -> [ still makes up stuff sometimes tho] 854
+[ ][h] -> [ h] 855
+[ h][el] -> [ hel] 856
+[ hel][p] -> [ help] 857
+[ help][ d] -> [ help d] 858
+[ help d][et] -> [ help det] 859
+[ help det][ec] -> [ help detec] 860
+[ help detec][t ] -> [ help detect ] 861
+[ help detect ][fr] -> [ help detect fr] 862
+[ help detect fr][au] -> [ help detect frau] 863
+[ help detect frau][d] -> [ help detect fraud] 864
+[ help detect fraud][ ] -> [ help detect fraud ] 865
+[ help detect fraud ][in] -> [ help detect fraud in] 866
+[ help detect fraud in][ b] -> [ help detect fraud in b] 867
+[ help detect fraud in b][an] -> [ help detect fraud in ban] 868
+[ help detect fraud in ban][k] -> [ help detect fraud in bank] 869
+[ help detect fraud in bank][ing] -> [ help detect fraud in banking] 870
+[’s ][rain] -> [’s rain] 871
+[’s rain][ing ] -> [’s raining ] 872
+[’s raining ][again] -> [’s raining again] 873
+[’s raining again][ 🌧️] -> [’s raining again 🌧️] 874
+[alk][ ] -> [alk ] 875
+[alk ][later?\u000a] -> [alk later?\u000a] 876
+[ sp][o] -> [ spo] 877
+[ spo][t d] -> [ spot d] 878
+[ spot d][is] -> [ spot dis] 879
+[ spot dis][e] -> [ spot dise] 880
+[ spot dise][as] -> [ spot diseas] 881
+[ spot diseas][es ] -> [ spot diseases ] 882
+[ spot diseases ][b] -> [ spot diseases b] 883
+[ spot diseases b][et] -> [ spot diseases bet] 884
+[ spot diseases bet][ter] -> [ spot diseases better] 885
+[ spot diseases better][ th] -> [ spot diseases better th] 886
+[ spot diseases better th][an] -> [ spot diseases better than] 887
+[ spot diseases better than][ do] -> [ spot diseases better than do] 888
+[ spot diseases better than do][ct] -> [ spot diseases better than doct] 889
+[ spot diseases better than doct][or] -> [ spot diseases better than doctor] 890
+[ spot diseases better than doctor][s in] -> [ spot diseases better than doctors in] 891
+[ spot diseases better than doctors in][ so] -> [ spot diseases better than doctors in so] 892
+[ spot diseases better than doctors in so][me ] -> [ spot diseases better than doctors in some ] 893
+[ spot diseases better than doctors in some ][c] -> [ spot diseases better than doctors in some c] 894
+[ spot diseases better than doctors in some c][as] -> [ spot diseases better than doctors in some cas] 895
+[ spot diseases better than doctors in some cas][es] -> [ spot diseases better than doctors in some cases] 896
+[y][o] -> [yo] 897
+[yo][ th] -> [yo th] 898
+[yo th][at ] -> [yo that ] 899
+[yo that ][m] -> [yo that m] 900
+[yo that m][o] -> [yo that mo] 901
+[yo that mo][vi] -> [yo that movi] 902
+[yo that movi][e w] -> [yo that movie w] 903
+[yo that movie w][as ] -> [yo that movie was ] 904
+[yo that movie was ][w] -> [yo that movie was w] 905
+[yo that movie was w][il] -> [yo that movie was wil] 906
+[yo that movie was wil][d] -> [yo that movie was wild] 907
+[yo that movie was wild][ 😳] -> [yo that movie was wild 😳] 908
+[even][ sp] -> [even sp] 909
+[even sp][am] -> [even spam] 910
+[even spam][ fil] -> [even spam fil] 911
+[even spam fil][ter] -> [even spam filter] 912
+[even spam filter][s us] -> [even spam filters us] 913
+[even spam filters us][e AI ] -> [even spam filters use AI ] 914
+[even spam filters use AI ][now] -> [even spam filters use AI now] 915
+[�][�] -> [！] 916
+[are you ][ho] -> [are you ho] 917
+[are you ho][m] -> [are you hom] 918
+[are you hom][e] -> [are you home] 919
+[are you home][?\u000a] -> [are you home?\u000a] 920
+[your][ phon] -> [your phon] 921
+[your phon][e c] -> [your phone c] 922
+[your phone c][a] -> [your phone ca] 923
+[your phone ca][mer] -> [your phone camer] 924
+[your phone camer][a] -> [your phone camera] 925
+[your phone camera][ us] -> [your phone camera us] 926
+[your phone camera us][es ] -> [your phone camera uses ] 927
+[your phone camera uses ][AI to] -> [your phone camera uses AI to] 928
+[your phone camera uses AI to][ ] -> [your phone camera uses AI to ] 929
+[your phone camera uses AI to ][en] -> [your phone camera uses AI to en] 930
+[your phone camera uses AI to en][h] -> [your phone camera uses AI to enh] 931
+[your phone camera uses AI to enh][anc] -> [your phone camera uses AI to enhanc] 932
+[your phone camera uses AI to enhanc][e pic] -> [your phone camera uses AI to enhance pic] 933
+[your phone camera uses AI to enhance pic][s] -> [your phone camera uses AI to enhance pics] 934
+[ ][at ] -> [ at ] 935
+[ at ][th] -> [ at th] 936
+[ at th][e s] -> [ at the s] 937
+[ at the s][ho] -> [ at the sho] 938
+[ at the sho][p] -> [ at the shop] 939
+[ at the shop][ �] -> [ at the shop �] 940
+[ at the shop �][�] -> [ at the shop 🛍] 941
+[ at the shop 🛍][️] -> [ at the shop 🛍️] 942
+[�][�] -> [完] 943
+[mor][ning] -> [morning] 944
+[morning][!] -> [morning!] 945
+[morning!][ �] -> [morning! �] 946
+[morning! �][�] -> [morning! ☀] 947
+[morning! ☀][️] -> [morning! ☀️] 948
+[can’t ][s] -> [can’t s] 949
+[can’t s][top] -> [can’t stop] 950
+[can’t stop][ l] -> [can’t stop l] 951
+[can’t stop l][au] -> [can’t stop lau] 952
+[can’t stop lau][gh] -> [can’t stop laugh] 953
+[can’t stop laugh][ing] -> [can’t stop laughing] 954
+[l][’IA] -> [l’IA] 955
+[e ne][ed to] -> [e need to] 956
+[e need to][ t] -> [e need to t] 957
+[e need to t][alk] -> [e need to talk] 958
+[at][a ] -> [ata ] 959
+[ata ][is ] -> [ata is ] 960
+[ata is ][th] -> [ata is th] 961
+[ata is th][e ne] -> [ata is the ne] 962
+[ata is the ne][w ] -> [ata is the new ] 963
+[ata is the new ][o] -> [ata is the new o] 964
+[ata is the new o][il] -> [ata is the new oil] 965
+[ata is the new oil][ ] -> [ata is the new oil ] 966
+[ata is the new oil ][appar] -> [ata is the new oil appar] 967
+[ata is the new oil appar][ent] -> [ata is the new oil apparent] 968
+[ata is the new oil apparent][l] -> [ata is the new oil apparentl] 969
+[ata is the new oil apparentl][y] -> [ata is the new oil apparently] 970
+[c][r] -> [cr] 971
+[eepf][akes ] -> [eepfakes ] 972
+[eepfakes ][are ] -> [eepfakes are ] 973
+[eepfakes are ][getting] -> [eepfakes are getting] 974
+[eepfakes are getting][ too] -> [eepfakes are getting too] 975
+[eepfakes are getting too][ ] -> [eepfakes are getting too ] 976
+[eepfakes are getting too ][re] -> [eepfakes are getting too re] 977
+[eepfakes are getting too re][al] -> [eepfakes are getting too real] 978
+[eepfakes are getting too real][ 😳] -> [eepfakes are getting too real 😳] 979
+[le][ar] -> [lear] 980
+[lear][n] -> [learn] 981
+[learn][s ] -> [learns ] 982
+[learns ][fr] -> [learns fr] 983
+[learns fr][om] -> [learns from] 984
+[learns from][ p] -> [learns from p] 985
+[learns from p][at] -> [learns from pat] 986
+[learns from pat][ter] -> [learns from patter] 987
+[learns from patter][n] -> [learns from pattern] 988
+[learns from pattern][s in] -> [learns from patterns in] 989
+[learns from patterns in][ hu] -> [learns from patterns in hu] 990
+[learns from patterns in hu][g] -> [learns from patterns in hug] 991
+[learns from patterns in hug][e d] -> [learns from patterns in huge d] 992
+[learns from patterns in huge d][at] -> [learns from patterns in huge dat] 993
+[learns from patterns in huge dat][a] -> [learns from patterns in huge data] 994
+[learns from patterns in huge data][ s] -> [learns from patterns in huge data s] 995
+[learns from patterns in huge data s][et] -> [learns from patterns in huge data set] 996
+[learns from patterns in huge data set][s] -> [learns from patterns in huge data sets] 997
+[b][r] -> [br] 998
+[br][ing] -> [bring] 999
+[bring][ s] -> [bring s] 1000
+[bring s][n] -> [bring sn] 1001
+[bring sn][ac] -> [bring snac] 1002
+[bring snac][k] -> [bring snack] 1003
+[bring snack][s ] -> [bring snacks ] 1004
+[bring snacks ][p] -> [bring snacks p] 1005
+[bring snacks p][le] -> [bring snacks ple] 1006
+[bring snacks ple][as] -> [bring snacks pleas] 1007
+[bring snacks pleas][e �] -> [bring snacks please �] 1008
+[bring snacks please �][�] -> [bring snacks please �] 1009
+[bring snacks please �][�] -> [bring snacks please 🍿] 1010
+[on][’t ] -> [on’t ] 1011
+[on’t ][for] -> [on’t for] 1012
+[on’t for][g] -> [on’t forg] 1013
+[on’t forg][e] -> [on’t forge] 1014
+[on’t forge][t ] -> [on’t forget ] 1015
+[on’t forget ][to] -> [on’t forget to] 1016
+[on’t forget to][ b] -> [on’t forget to b] 1017
+[on’t forget to b][r] -> [on’t forget to br] 1018
+[on’t forget to br][ing ] -> [on’t forget to bring ] 1019
+[on’t forget to bring ][your] -> [on’t forget to bring your] 1020
+[on’t forget to bring your][ c] -> [on’t forget to bring your c] 1021
+[on’t forget to bring your c][h] -> [on’t forget to bring your ch] 1022
+[on’t forget to bring your ch][ar] -> [on’t forget to bring your char] 1023
